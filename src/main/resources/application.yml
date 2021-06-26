@@ -1,0 +1,5 @@
+server:
+  port: ${port:7800}
+spring:
+  application:
+    name: product-enquiry-service
